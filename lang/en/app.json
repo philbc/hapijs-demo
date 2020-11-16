@@ -1,0 +1,6 @@
+{
+    "SUCCESSFUL_UPDATE": "Successfully updated.",
+    "UNSUCCESSFUL_UPDATE": "Update failed.",
+    "SUCCESSFUL_DELETE": "Successfully deleted.",
+    "UNSUCCESSFUL_DELETE": "Delete failed."
+}
